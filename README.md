@@ -3,7 +3,7 @@
 #repositorio gonzalo nicolas coaguila valdivia 
 
 #hola mundo 
-# Joey estubo aqui gaaaA
+# Joey estubo aqui 
 
 
 
